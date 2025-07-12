@@ -1,7 +1,21 @@
-# Task 15: Conduct NSG Flow Log Reviews for Threat Detection
+# 🧱 Project 15: Conduct NSG Flow Log Reviews for Threat Detection
 
-**Domain:** 02 - Network Security
+## 📌 Project Objective  
+Enable and analyze **NSG (Network Security Group) flow logs** to detect suspicious traffic patterns and security risks across Azure virtual networks.
 
-This task explains how to enable and review **NSG flow logs** using Network Watcher. You'll analyze traffic patterns and detect anomalies or suspicious activity.
+## 💡 Why This Project Matters  
+Flow logs provide visibility into network-level traffic, helping organizations **detect anomalies**, **track lateral movement**, and **identify misconfigurations**. Reviewing these logs supports **proactive threat detection** and strengthens network posture in cloud environments.
 
-Real-world use: Helps with threat hunting, performance tuning, and auditing network behavior in real-time.
+## 🧰 Core Azure Services Involved  
+- **Network Security Groups (NSGs)**  
+- **NSG Flow Logs (via Azure Network Watcher)**  
+- **Storage Account (for log storage)**  
+- **Azure Monitor / Log Analytics**  
+- **KQL (Kusto Query Language) for querying logs**
+
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
