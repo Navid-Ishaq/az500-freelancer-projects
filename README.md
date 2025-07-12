@@ -1,4 +1,6 @@
 # 🚀 az500-freelancer-projects
+## 🚀 SecureCloudPro: Freelance Azure Security Projects (AZ-500 Lab)
+
 **Your trusted toolkit for real-world Azure cloud security tasks, designed for freelancers and professionals.**
 
 Welcome to a powerful and practical repository dedicated to **real-world Azure security services**. Whether you're an enterprise looking to **secure your Azure environment**, or a cloud learner diving deep into the **AZ-500 certification**, you're in the right place.  
@@ -8,7 +10,7 @@ I’m here to help organizations implement bulletproof cloud security solutions 
 
 ---
 
-## ✅ 🔥 Top 40+ Azure Freelance Tasks You Can Offer (AZ-500 Based)
+## ✅ 🔥 🔐 The 41 Azure Freelance Security Projects I Deliver (AZ-500 Lab)
 
 ### 🔐 Identity & Access Management (IAM)
 1. Configure Azure AD Conditional Access Policies  
