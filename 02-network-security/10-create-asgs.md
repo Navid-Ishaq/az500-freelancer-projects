@@ -1,7 +1,20 @@
-# Task 10: Create Application Security Groups (ASGs) for Better Isolation
+# 🧱 Project 10: Create Application Security Groups (ASGs) for Better Isolation
 
-**Domain:** 02 - Network Security
+## 📌 Project Objective  
+Create and apply **Application Security Groups (ASGs)** to logically group Azure virtual machines and define network security policies based on application roles rather than IP addresses. Simplify the management of NSG rules in dynamic environments.
 
-This task covers creating **Application Security Groups (ASGs)** to simplify the management of network security rules. ASGs allow you to group VMs logically and apply NSG rules to those groups instead of IPs.
+## 💡 Why This Project Matters  
+**ASGs** enable scalable and manageable **micro-segmentation** in Azure networks. Instead of updating IPs manually, you assign VM workloads to ASGs and write security rules once — making **security automation and isolation** easier, especially for **multi-tier architectures**.
 
-Real-world use: Great for microservices or tiered apps — group VMs by role and apply security policies that adapt as the environment scales.
+## 🧰 Core Azure Services Involved  
+- **Application Security Groups (ASGs)**  
+- **Virtual Machines (VMs)**  
+- **Network Security Groups (NSGs)**  
+- **Virtual Networks (VNets) & Subnets**
+
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
