@@ -1,6 +1,20 @@
-# Task 24: Set Up Key Vault Access Policies & RBAC Securely  
-**Domain:** 04 - Data Protection & Encryption
+# 🛡️ Project 24: Set up Key Vault access policies & RBAC securely
 
-In this task, you'll configure **Azure Key Vault access policies** and/or **RBAC (Role-Based Access Control)** to control access to secrets, keys, and certificates. You'll ensure only authorized apps and users can interact with the vault.
+## 📌 Project Objective  
+Configure **Azure Key Vault** to restrict and manage access to secrets, keys, and certificates using a combination of **access policies** and **role-based access control (RBAC)** for granular permission enforcement.
 
-Real-world use: Protects sensitive credentials and encryption keys while enforcing the principle of least privilege.
+## 💡 Why This Project Matters  
+Key Vault holds highly sensitive data — securing access ensures that only authorized users or services can retrieve or manage cryptographic material. This project helps enforce the principle of least privilege and supports strong governance and auditing practices.
+
+## 🧰 Core Azure Services Involved  
+- **Azure Key Vault**  
+- **Access Policies**  
+- **Azure RBAC**  
+- **Azure Active Directory**
+
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
