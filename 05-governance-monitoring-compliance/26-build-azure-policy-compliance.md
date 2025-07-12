@@ -1,7 +1,22 @@
-# Task 26: Build & apply Azure Policy for resource compliance
+aap wala Format ye he:
+# 🛡️ Project 01: Configure Azure AD Conditional Access Policies
 
-**Domain:** 05 - Governance, Monitoring & Compliance
+## 📌 Project Objective  
+Configure and enforce adaptive **Azure AD Conditional Access Policies** to control user access based on real-time conditions like location, device compliance, risk level, or application sensitivity.
 
-This task focuses on creating and applying **Azure Policy** to enforce compliance across resources. You'll define policy definitions, assign them to scopes, and evaluate non-compliant resources.
+## 💡 Why This Project Matters  
+These policies help implement **zero trust access control**, blocking or allowing users dynamically — ensuring security **without blocking productivity**. Perfect for enterprises aiming to reduce identity-based risks.
 
-Real-world use: Ensures organizational standards are met and prevents drift from compliance baselines.
+## 🧰 Core Azure Services Involved
+- **Azure Active Directory**
+- **Conditional Access**
+- **Sign-in Risk Evaluations**
+- **Named Locations / MFA Controls**
+--- 
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
+26.	Build & apply Azure Policy for resource compliance
+
