@@ -11,3 +11,9 @@ MFA is a foundational security control that significantly reduces the risk of ac
 - **Microsoft Authenticator**
 - **Security Defaults / Conditional Access**
 - **Identity Protection**
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
