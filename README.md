@@ -4,7 +4,7 @@
 Welcome to a powerful and practical repository dedicated to **real-world Azure security services**. Whether you're an enterprise looking to **secure your Azure environment**, or a cloud learner diving deep into the **AZ-500 certification**, you're in the right place.  
 ✅ **No worries — your cloud is in safe hands.**
 
-I’m here to help organizations implement bulletproof cloud security solutions through a library of **freelance-ready tasks**, each explored in **9 unique and educational ways**.  
+I’m here to help organizations implement bulletproof cloud security solutions through a library of **freelance-ready tasks**, each explored in **7 unique and educational ways**.  
 
 ---
 
@@ -67,9 +67,9 @@ I’m here to help organizations implement bulletproof cloud security solutions 
 
 ---
 
-## 🔁 Each Task is Explained in 9 Practical, Actionable Ways
+## 🔁 Each Task is Explained in 7 Practical, Actionable Ways
 
-Every task above is not just mentioned — it’s **fully explained** through **9 different lenses** to ensure deep understanding and usability:
+Every task above is not just mentioned — it’s **fully explained** through **7 different lenses** to ensure deep understanding and usability:
 
 1️⃣ **Professional real-world scenario for practical context**  
 ➡ See how each task solves real business problems.
@@ -89,14 +89,9 @@ Every task above is not just mentioned — it’s **fully explained** through **
 6️⃣ **Final reflection on the real-world efficiency of the lab**  
 ➡ Did it improve security? Was it scalable?
 
-7️⃣ **10+ Conceptual MCQs aligned with exam readiness**  
-➡ Sharpen your AZ-500 theory and definitions.
+7️⃣ **Engaging comic-style summary for retention**  
+➡ Learn with a smile — visual and story-based closure..
 
-8️⃣ **10+ Professional job scenario MCQs for interview practice**  
-➡ Think like a security engineer — make smart choices.
-
-9️⃣ **Engaging comic-style summary for retention**  
-➡ Learn with a smile — visual and story-based closure.
 
 ---
 
