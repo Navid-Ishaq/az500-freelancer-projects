@@ -1,6 +1,20 @@
-# Task 28: Implement Activity Log Alerts for suspicious operations
-**Domain:** 05 - Governance, Monitoring & Compliance
+# 🛡️ Project 28: Implement Activity Log Alerts for suspicious operations
 
-This task teaches how to configure **Activity Log Alerts** to notify you of suspicious or sensitive operations (like role changes or deletions).
+## 📌 Project Objective  
+Set up **Activity Log Alerts** in Azure to monitor and respond to suspicious or critical operations like role changes, policy deletions, or unauthorized access attempts.
 
-Real-world use: Enhances security visibility and helps detect unauthorized actions in real-time.
+## 💡 Why This Project Matters  
+These alerts act as an **early warning system** for cloud administrators, enabling fast detection and remediation of potentially harmful changes — helping protect against misconfigurations or insider threats.
+
+## 🧰 Core Azure Services Involved  
+- **Azure Monitor**  
+- **Activity Logs**  
+- **Alert Rules**  
+- **Action Groups**
+
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
