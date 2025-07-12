@@ -1,5 +1,5 @@
-# 🚀 az500-freelancer-projects
-## 🚀 SecureCloudPro: Freelance Azure Security Projects (AZ-500 Lab)
+## 🚀 az500-freelancer-projects
+# 🚀 SecureCloudPro: Freelance Azure Security Projects (AZ-500 Lab)
 
 **Your trusted toolkit for real-world Azure cloud security tasks, designed for freelancers and professionals.**
 
