@@ -1,6 +1,20 @@
-# Task 33: Create Alert-based automation workflows
-**Domain:** 06 - Automation & Incident Response
+# 🛡️ Project 33: Create Alert-based automation workflows
 
-This task demonstrates how to build **automated workflows** that respond to specific Azure alerts. You'll learn to create alert rules and integrate them with actions like sending emails or invoking Logic Apps.
+## 📌 Project Objective  
+Build **automated workflows** that trigger on specific **Azure security alerts**, enabling real-time actions like ticket creation, notifications, or mitigation steps using **Logic Apps** or **Azure Functions**.
 
-Real-world use: Enables proactive security responses by automating critical steps during incidents.
+## 💡 Why This Project Matters  
+By linking alerts with automation, organizations can **respond instantly** to incidents, reduce manual workload, and maintain high **security response efficiency** — even during off-hours or at scale.
+
+## 🧰 Core Azure Services Involved  
+- **Azure Monitor Alerts**  
+- **Logic Apps / Azure Functions**  
+- **Microsoft Sentinel (optional)**  
+- **Azure Automation / Runbooks**
+
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
