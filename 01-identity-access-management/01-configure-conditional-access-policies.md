@@ -11,3 +11,9 @@ These policies help implement **zero trust access control**, blocking or allowin
 - **Conditional Access**
 - **Sign-in Risk Evaluations**
 - **Named Locations / MFA Controls**
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
