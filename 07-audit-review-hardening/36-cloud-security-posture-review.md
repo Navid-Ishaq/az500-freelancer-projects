@@ -1,4 +1,20 @@
-# Task 36: Conduct a Cloud Security Posture Review
-**Domain:** 07 - Audit, Review & Hardening Services  
-This task guides you through performing a **Cloud Security Posture Review** to evaluate the current security configuration of your Azure environment. It includes reviewing policies, identity settings, and compliance status to uncover misconfigurations.  
-Real-world use: Vital for identifying gaps and risks in your cloud setup before an audit or compliance check.
+# 🛡️ Project 36: Conduct a Cloud Security Posture Review
+
+## 📌 Project Objective  
+Evaluate the overall **security posture of an Azure environment**, identifying misconfigurations, security gaps, and compliance risks using built-in Azure security tools and best practices.
+
+## 💡 Why This Project Matters  
+A Cloud Security Posture Review (CSPR) provides **visibility across identities, resources, and configurations**, helping enterprises **proactively reduce attack surfaces** and meet internal or external audit requirements.
+
+## 🧰 Core Azure Services Involved  
+- **Microsoft Defender for Cloud**
+- **Azure Policy**
+- **Secure Score Dashboard**
+- **Compliance Manager**
+
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
