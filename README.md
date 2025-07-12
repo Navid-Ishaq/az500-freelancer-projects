@@ -115,3 +115,10 @@ Let’s protect your cloud — **the right way.** 🔐☁️
 > _“Security isn’t a feature — it’s a foundation.”_  
 > **Let’s build it together.**
 
+---
+
+> ⚠️ **Disclaimer**  
+> Each project in this repository is designed to walk you through **7 practical sections** that prepare you to confidently perform real-world security tasks in Azure.  
+> While **Azure’s interface or minor steps may occasionally evolve**, rest assured — you’re not just memorizing clicks.  
+> You’re being trained to **understand**, **adapt**, and **lead securely**.  
+> That’s the difference between following a tutorial — and becoming a true cloud professional. 🌐💪
