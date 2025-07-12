@@ -1,7 +1,21 @@
-# Task 11: Implement Azure Firewall and Rule Collections
+# 🧱 Project 11: Implement Azure Firewall and Rule Collections
 
-**Domain:** 02 - Network Security
+## 📌 Project Objective  
+Deploy **Azure Firewall** and define **rule collections** to control inbound and outbound network traffic for your virtual networks, ensuring centralized security policy enforcement across cloud environments.
 
-Learn to deploy and configure **Azure Firewall**, a stateful, managed network security service. This task focuses on creating rule collections for application and network-level filtering.
+## 💡 Why This Project Matters  
+**Azure Firewall** provides **stateful, fully managed, and scalable packet filtering** for Azure workloads. By using **network**, **application**, and **NAT rule collections**, you gain fine-grained control, enabling **secure access**, **traffic inspection**, and **logging** — essential for enterprise-grade environments.
 
-Real-world use: Secure your Azure VNet perimeter with centralized control of traffic using fully customizable allow/deny rules.
+## 🧰 Core Azure Services Involved  
+- **Azure Firewall**  
+- **Firewall Policy**  
+- **Rule Collections (Network/Application/NAT)**  
+- **Azure Virtual Network (VNet)**  
+- **Azure Monitor Logs (for diagnostics)**
+
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
