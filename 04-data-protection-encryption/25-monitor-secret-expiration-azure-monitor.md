@@ -1,6 +1,20 @@
-# Task 25: Monitor Secret Expiration Alerts Using Azure Monitor  
-**Domain:** 04 - Data Protection & Encryption
+# 🛡️ Project 25: Monitor secret expiration alerts using Azure Monitor
 
-This task helps you set up **alerts** in **Azure Monitor** to track **secret expiration dates** in **Key Vault**, ensuring timely renewals before services break due to expired credentials.
+## 📌 Project Objective  
+Set up **Azure Monitor** to track expiration timelines of secrets stored in **Azure Key Vault** and trigger proactive alerts before they expire, minimizing disruptions to dependent applications and services.
 
-Real-world use: Prevents outages caused by unnoticed expired secrets or certificates, improving uptime and reliability.
+## 💡 Why This Project Matters  
+Secret expiration can lead to app failures, outages, or compliance issues. This project builds a proactive monitoring layer, so teams are notified well in advance, maintaining both **availability** and **security posture**.
+
+## 🧰 Core Azure Services Involved  
+- **Azure Monitor**  
+- **Key Vault Diagnostic Settings**  
+- **Log Analytics Workspace**  
+- **Alert Rules and Action Groups**
+
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
