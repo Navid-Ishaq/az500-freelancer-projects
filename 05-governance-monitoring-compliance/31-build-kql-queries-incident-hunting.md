@@ -1,6 +1,20 @@
-# Task 31: Build custom KQL queries for security incident hunting
-**Domain:** 05 - Governance, Monitoring & Compliance
+# 🛡️ Project 31: Build custom KQL queries for security incident hunting
 
-This task involves writing **Kusto Query Language (KQL)** queries to hunt for security incidents across logs.
+## 📌 Project Objective  
+Leverage **Kusto Query Language (KQL)** to craft custom queries in **Log Analytics** and **Microsoft Sentinel**, helping security teams identify suspicious behavior, correlate events, and hunt for threats.
 
-Real-world use: Empowers security teams to proactively investigate anomalies and suspicious behaviors.
+## 💡 Why This Project Matters  
+Being able to write custom **KQL queries** is a core skill for proactive threat detection and investigation. It empowers security analysts to **surface hidden attack patterns**, extract actionable signals, and build a more intelligent detection system.
+
+## 🧰 Core Azure Services Involved  
+- **Microsoft Sentinel**  
+- **Log Analytics Workspace**  
+- **Kusto Query Language (KQL)**  
+- **Azure Monitor Logs**
+
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
