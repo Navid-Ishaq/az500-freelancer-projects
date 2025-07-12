@@ -1,7 +1,20 @@
-# Task 09: Design & Configure Network Security Groups (NSGs)
+# 🧱 Project 09: Design & Configure Network Security Groups (NSGs)
 
-**Domain:** 02 - Network Security
+## 📌 Project Objective  
+Design and implement **Network Security Groups (NSGs)** in Azure to control inbound and outbound traffic at the subnet and network interface level. Apply rules that enforce segmentation, protect workloads, and support compliance.
 
-This task focuses on designing and implementing **Network Security Groups (NSGs)** to control inbound and outbound traffic to Azure resources. You'll define security rules to allow or deny traffic based on IP address, port, and protocol. NSGs are essential for segmenting network access and enforcing a least-privilege model in a virtual network.
+## 💡 Why This Project Matters  
+**NSGs** are foundational to Azure network security. By properly configuring NSG rules, organizations can **limit exposure**, enforce **least privilege networking**, and ensure only the right traffic reaches sensitive resources — all without additional costs.
 
-Real-world use: Use NSGs to protect VMs, subnets, and applications from unauthorized access while allowing only required traffic for operations.
+## 🧰 Core Azure Services Involved  
+- **Network Security Groups (NSGs)**  
+- **Virtual Networks (VNets)**  
+- **Subnets & NIC associations**  
+- **NSG Rule Priorities and Ports**
+
+---
+
+## 🔁 The Project Breakdown Begins Below  
+Each project is further explained in 7 actionable, real-world formats 👇
+
+---
