@@ -1,8 +1,3 @@
-Here is the Markdown-formatted content for:
-
-### **Project 37: Perform RBAC & Identity Audit for Least Privilege**
-
-```markdown
 # 🛡️ Project 37: Perform RBAC & Identity Audit for Least Privilege
 
 ## 📌 Project Objective  
@@ -23,6 +18,3 @@ Over-privileged access is a leading cause of cloud security breaches. This proje
 Each project is further explained in 7 actionable, real-world formats 👇
 
 ---
-```
-
-Let me know when you're ready for Project 38.
