@@ -907,25 +907,8 @@ _"Secure like a pro, log in like a boss."_ 🛡️
 
 Here's how the access decision worked behind the scenes:
 
- flowchart TD
-  A[👤 User Attempts Sign-In] --> B[🔐 Azure Sign-In Page]
-  B --> C[🧠 Risk Level Evaluated]
-  C --> D{⚠️ Is Risk Acceptable?}
-  D -- Yes --> E[✅ Require MFA]
-  D -- No --> Z[❌ Block Access]
+<pre> ```mermaid flowchart TD A[👤 User Attempts Sign-In] --> B[🔐 Azure Sign-In Page] B --> C[🧠 Risk Level Evaluated] C --> D{⚠️ Is Risk Acceptable?} D -- Yes --> E[✅ Require MFA] D -- No --> Z[❌ Block Access] E --> F{📱 MFA Passed?} F -- Yes --> G[💻 Check Device Compliance] F -- No --> Z G --> H{🧪 Is Device Compliant?} H -- Yes --> I[🚀 Access Granted to App] H -- No --> Z Z[🔒 Access Denied] ``` </pre>
 
-  E --> F{📱 MFA Passed?}
-  F -- Yes --> G[💻 Check Device Compliance]
-  F -- No --> Z
-
-  G --> H{🧪 Is Device Compliant?}
-  H -- Yes --> I[🚀 Access Granted to App]
-  H -- No --> Z
-
-  Z[🔒 Access Denied]
-
-
----
 
 ---
 # 🎉 Mission Complete – 7 Points Secured, One Mighty Project Delivered!
