@@ -836,6 +836,85 @@ And most of all?
 💪 Stay secure, stay curious — and on to the next project!
 
 ---
+## 🎭 Project 01 – The Great Conditional Access Quest
+
+### 🌀 Uh-oh, a Problem!  
+It was a regular Tuesday at **BrightOps**, until Rohan — their ever-curious security engineer — noticed something odd.  
+“We’ve got users signing in from Nigeria, Germany… and someone just accessed Teams from a fridge in Iceland?” 🤯
+
+Sofia, sipping her cold brew, raised an eyebrow:  
+“That can’t be right. We don’t even operate in Iceland!”  
+
+Something was clearly wrong. Their **Microsoft Entra ID** logs were lighting up with **risky sign-ins**, and **Multi-Factor Authentication (MFA)** wasn’t enforced across the board.  
+It was time to get serious. Or at least serious with snacks. 🍪
+
+---
+
+### 🛠️ Time to Get to Work!  
+The team gathered in what they lovingly called the **Security Situation Room** (basically a whiteboard and bean bags).  
+
+Rohan pulled up the **Azure AD Conditional Access** dashboard.  
+“We need adaptive rules. Location, risk level, device compliance — all checked before access is granted.”  
+
+Sofia added:  
+“We’ll define **Named Locations**, enforce **MFA**, and block access from non-compliant devices.  
+No one logs in unless they pass our digital bouncer.”  
+
+The plan was simple: configure **smart access rules** that let trusted users in and keep the suspicious ones out.
+
+---
+
+### 🔧 Tools in Action!  
+They started with a test policy:  
+Only users from trusted locations with compliant devices could access **Exchange Online**.
+
+**Step 1:** Create a **Conditional Access Policy** named “Trusted Access Only.”  
+**Step 2:** Include all users, exclude break-glass admin.  
+**Step 3:** Set conditions for location (block unknown), device compliance, and sign-in risk.  
+**Step 4:** Require **MFA** as a grant control.  
+**Step 5:** Enable policy in report-only mode — test first, break nothing. 🔍
+
+Sofia tested it by pretending to log in from her mom’s iPad in another city.  
+Result? BLOCKED. 🙅‍♀️  
+“Works like magic,” she grinned. “Zero trust feels... oddly comforting.”
+
+---
+
+### 🎉 Success and High-Fives!  
+By Friday, all critical apps were behind conditional walls.  
+**MFA** was everywhere, **risky logins** were blocked, and **users from unknown locations** were gently nudged toward compliance (or held out like VIPs without a pass).
+
+The CTO even dropped by:  
+“What did you all do? The sign-in risk dropped by 85% this week!”  
+Sofia winked:  
+“Just gave Azure the keys and told it who could party.”
+
+Pizza was ordered. Logs were reviewed. Jamalu was proud. 🍕
+
+---
+
+### 🧠 What Did We Learn?  
+- **Conditional Access** isn’t just a config — it’s the new firewall for identities.  
+- **Zero trust** doesn’t mean zero access — it means **smart, adaptive security**.  
+- You don’t need to be a cloud wizard — just follow the logic, test safely, and think like a defender.  
+
+Now, Rohan trains interns on **sign-in risk policies**, and Sofia leads the internal campaign:  
+_"Secure like a pro, log in like a boss."_ 🛡️
+
+---
+
+### 🎨 Optional Visual – Access Logic Flow
+
+```mermaid
+flowchart TD
+  User --> SignIn[Azure Sign-In]
+  SignIn --> RiskCheck[Evaluate Risk Level]
+  RiskCheck --> MFA[MFA Required]
+  MFA --> CompliantDevice[Device Must Be Compliant]
+  CompliantDevice --> AppAccess[Access Granted]
+
+
+---
 # 🎉 Mission Complete – 7 Points Secured, One Mighty Project Delivered!
 
 ---
@@ -934,4 +1013,5 @@ Because you’re no longer “learning Azure.” You’re *doing Azure*.
 
 🎉 **Congratulations, Security Hero — You Made It!**
 You can do this. And now, you just did. 👏💙
+
 ---
