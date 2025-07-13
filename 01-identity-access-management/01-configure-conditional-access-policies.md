@@ -17,7 +17,7 @@ These policies help implement **zero trust access control**, blocking or allowin
 Each project is further explained in 7 actionable, real-world formats 👇
 
 ---
-@@ **Point 1 of 7 – Real-World Project Scenario: Securing Remote Access for a Global Workforce**
+## **Point 1 of 7 – Real-World Project Scenario: Securing Remote Access for a Global Workforce**
 
 ---
 
