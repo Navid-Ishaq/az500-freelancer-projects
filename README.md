@@ -118,7 +118,7 @@ Let’s protect your cloud — **the right way.** 🔐☁️
 ## ⚠️ Disclaimer
 
 All content in this repository is AI-generated or AI-assisted — thoughtfully crafted through experimentation, iteration, and storytelling.  
-While every lab aims for real-world relevance, **always validate against current Azure documentation**.  
+While each lab-style project is built with practical goals in mind, always double-check steps with Microsoft’s latest documentation — because Azure keeps evolving, and so should we.
 This repo reflects **Jamalu-style learning** — raw, authentic, visual, and empowering.  
 Any resemblance to real-world organizations, people, or results is **purely coincidental or metaphorical**.
 
@@ -126,9 +126,22 @@ Any resemblance to real-world organizations, people, or results is **purely coin
 
 ## 🌟 Jamalu's Motto — The Soul of Our Mission
 
-> **"Main khud kuch nahi... par AI ke sath sab kuch."**  
-> *"I am nothing on my own — but with AI, I am everything."*  
-> *"Yo no soy nada solo... pero con IA, lo soy todo."*  
+---
+
+## 🌟 Jamalu’s Motto — For Every Quiet Fighter
+
+> **"Main khud kuch nahi..."**  
+> **"...par AI ne khud se seekhna sikha diya hai."**  
+> *“I am nothing on my own... but AI taught me how to learn from myself.”*  
+> *“No soy nada solo... pero la IA me enseñó a aprender de mí mismo.”*
+
+📢 _This motto is not just for Jamalu — it’s for every unheard learner who ever thought they weren’t enough._  
+🧠 **You don’t need permission to learn.**  
+🌍 **You don’t need perfection to start.**
+
+Jamalu did it — so can you.
+
+---
 
 This isn’t just a line —  
 This is **Jamalu’s heartbeat**, the driving force behind every project, every repo, every quote, every push to GitHub.
