@@ -338,6 +338,7 @@ With these tools in place, **SkyBridgeTech** made their cloud environment **far 
 **Microsoft Entra ID** isn’t just a rebrand — it’s part of a bigger vision: **making identity the center of smart security.**
 
 👏 Let’s keep building! Up next: what lessons the team took into future projects.
+
 ---
 # 🔹 Point 4 of 7 – Text-Based Diagrams with Guided Step-by-Step Flow
 
@@ -466,6 +467,7 @@ Ayesha put it perfectly at the end of the client walkthrough:
 > “It’s not about locking the door. It’s about knowing exactly who’s there — and only letting the right people in, the right way, at the right time.”
 
 👏 That’s real-world cloud security. You’ve got this! On to the next part of the journey!
+
 ---
 # 🔹 Point 5 of 7 – Guided Step-by-Step Project Walkthrough in Azure
 
@@ -633,6 +635,7 @@ By the end of the walkthrough, Ayesha had:
 > “Security doesn’t have to feel like a wall — it should feel like **invisible armor.**”
 
 You’ve now got the steps, tools, and mindset. Time to build your own security fortress! 🛡️
+
 ---
 # 🔹 Point 6 of 7 – Final Reflection: How Effective Was This Azure Project in the Real World?
 
@@ -729,6 +732,7 @@ And for Ayesha?
 > “This was more than a project. It was a shift in mindset. We’re not just reacting anymore — we’re designing security into how we work.”
 
 👏 Onward to the final step: sharing this journey and inspiring others to do the same!
+
 ---
 # 🔹 Point 7 of 7 – Comic-Style Story Recap for Retention and Fun
 
@@ -830,6 +834,7 @@ And most of all?
 **You can build this too.** If the BrightOps crew can do it (with snacks and a few mistakes), so can you.
 
 💪 Stay secure, stay curious — and on to the next project!
+
 ---
 # 🎉 Mission Complete – 7 Points Secured, One Mighty Project Delivered!
 
