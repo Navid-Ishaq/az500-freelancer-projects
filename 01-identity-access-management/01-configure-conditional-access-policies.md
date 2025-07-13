@@ -736,7 +736,7 @@ And for Ayesha?
 ---
 # 🔹 Point 7 of 7 – Comic-Style Story Recap for Retention and Fun
 
-## 📘 Today’s Project: **Securing User Access with Microsoft Entra Conditional Access Policies**
+## 📘 Today’s Project: **Securing User Access with Microsoft Entra ID Conditional Access Policies**
 
 ---
 
@@ -942,21 +942,6 @@ Here’s what our team (and probably you!) learned along the way:
 🚀 **Cloud security isn’t a one-time task — it’s an evolving mindset**
 
 ---
-
-## 🎨 **A Visual Recap of Your Journey**
-
-+-----------+     +----------------+     +--------------------+
-|  Problem  | --> | Team Strategy  | --> | Entra Config Magic |
-+-----------+     +----------------+     +--------------------+
-                                      |
-      +------------------------------+----------------------------+
-      |      Named Locations, Sign-in Risk, MFA, User Roles       |
-      +------------------------------+----------------------------+
-                                      |
-+-------------------+    +-----------------+    +-----------------+
-|    Test Group     | -> | Log + Monitor   | -> | Real-World Win! |
-+-------------------+    +-----------------+    +-----------------+
-
 
 ## 🤝 **You Did More Than Click Buttons**
 
