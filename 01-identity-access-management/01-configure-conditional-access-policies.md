@@ -905,6 +905,8 @@ _"Secure like a pro, log in like a boss."_ 🛡️
 
 ### 🎨 Optional Visual – Access Logic Flow
 
+Here's how the access decision worked behind the scenes:
+
 ```mermaid
 flowchart TD
   User --> SignIn[Azure Sign-In]
@@ -913,7 +915,11 @@ flowchart TD
   MFA --> CompliantDevice[Device Must Be Compliant]
   CompliantDevice --> AppAccess[Access Granted]
 
+---
 
+
+
+---
 ---
 # 🎉 Mission Complete – 7 Points Secured, One Mighty Project Delivered!
 
