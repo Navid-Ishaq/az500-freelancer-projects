@@ -1,7 +1,7 @@
-# 🛡️ Project 01: Configure Azure AD Conditional Access Policies
+# 🛡️ Project 01: Configure Microsoft Entra ID Conditional Access Policies (formerly Azure AD)
 
 ## 📌 Project Objective  
-Configure and enforce adaptive **Azure AD Conditional Access Policies** to control user access based on real-time conditions like location, device compliance, risk level, or application sensitivity.
+Configure and enforce adaptive **Microsoft Entra ID Conditional Access Policies** to control user access based on real-time conditions like location, device compliance, risk level, or application sensitivity.
 
 ## 💡 Why This Project Matters  
 These policies help implement **zero trust access control**, blocking or allowing users dynamically — ensuring security **without blocking productivity**. Perfect for enterprises aiming to reduce identity-based risks.
@@ -19,7 +19,7 @@ Each project is further explained in 7 actionable, real-world formats 👇
 ---
 # 🔹 Point 1 of 7 – Real-World Project Scenario
 
-## 🎯 Securing Remote Access with Azure AD Conditional Access at SkyBridgeTech
+## 🎯 Securing Remote Access with Microsoft Entra ID Conditional Access at SkyBridgeTech
 
 ---
 
@@ -55,7 +55,7 @@ Enter: the dream team.
 * **Omar** (IT Admin): Knew the ins and outs of user behavior and sign-in patterns.
 * **Sofia** (Compliance Officer): Focused on regulatory requirements and audit readiness.
 
-Together, they mapped out a goal: **build flexible, adaptive access policies** using **Azure AD Conditional Access**.
+Together, they mapped out a goal: **build flexible, adaptive access policies** using **Microsoft Entra ID Conditional Access**.
 
 > “Let’s make sure users only get in when we’re confident it’s really *them*,” said Sofia.
 
@@ -79,7 +79,7 @@ But that’s where **Conditional Access** shines. It doesn’t just say yes or n
 
 The solution? A layered, intelligent approach.
 
-Using **Azure AD Conditional Access**, the team planned to:
+Using **Microsoft Entra ID Conditional Access**, the team planned to:
 
 * **Block high-risk sign-ins** from unknown locations.
 * **Require MFA** for logins from new devices.
@@ -853,7 +853,7 @@ It was time to get serious. Or at least serious with snacks. 🍪
 ### 🛠️ Time to Get to Work!  
 The team gathered in what they lovingly called the **Security Situation Room** (basically a whiteboard and bean bags).  
 
-Rohan pulled up the **Azure AD Conditional Access** dashboard.  
+Rohan pulled up the **Microsoft Entra ID Conditional Access** dashboard.  
 “We need adaptive rules. Location, risk level, device compliance — all checked before access is granted.”  
 
 Sofia added:  
@@ -945,7 +945,6 @@ Here’s what our team (and probably you!) learned along the way:
 
 ## 🎨 **A Visual Recap of Your Journey**
 
-```
 +-----------+     +----------------+     +--------------------+
 |  Problem  | --> | Team Strategy  | --> | Entra Config Magic |
 +-----------+     +----------------+     +--------------------+
@@ -958,7 +957,6 @@ Here’s what our team (and probably you!) learned along the way:
 |    Test Group     | -> | Log + Monitor   | -> | Real-World Win! |
 +-------------------+    +-----------------+    +-----------------+
 
----
 
 ## 🤝 **You Did More Than Click Buttons**
 
