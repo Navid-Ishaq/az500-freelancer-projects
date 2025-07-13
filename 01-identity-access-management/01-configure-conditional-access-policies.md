@@ -907,12 +907,23 @@ _"Secure like a pro, log in like a boss."_ 🛡️
 
 Here's how the access decision worked behind the scenes:
 
-flowchart TD
-  User --> SignIn[Azure Sign-In]
-  SignIn --> RiskCheck[Evaluate Risk Level]
-  RiskCheck --> MFA[MFA Required]
-  MFA --> CompliantDevice[Device Must Be Compliant]
-  CompliantDevice --> AppAccess[Access Granted]
+ flowchart TD
+  A[👤 User Attempts Sign-In] --> B[🔐 Azure Sign-In Page]
+  B --> C[🧠 Risk Level Evaluated]
+  C --> D{⚠️ Is Risk Acceptable?}
+  D -- Yes --> E[✅ Require MFA]
+  D -- No --> Z[❌ Block Access]
+
+  E --> F{📱 MFA Passed?}
+  F -- Yes --> G[💻 Check Device Compliance]
+  F -- No --> Z
+
+  G --> H{🧪 Is Device Compliant?}
+  H -- Yes --> I[🚀 Access Granted to App]
+  H -- No --> Z
+
+  Z[🔒 Access Denied]
+
 
 ---
 
@@ -971,7 +982,6 @@ Here’s what our team (and probably you!) learned along the way:
 +-------------------+    +-----------------+    +-----------------+
 |    Test Group     | -> | Log + Monitor   | -> | Real-World Win! |
 +-------------------+    +-----------------+    +-----------------+
-```
 
 ---
 
