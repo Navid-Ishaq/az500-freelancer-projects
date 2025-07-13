@@ -71,9 +71,9 @@ I help businesses implement **bulletproof cloud security solutions** through a g
 
 ---
 
-## 🔁 Each Task is Explained in 7 Practical, Actionable Ways
+## 🔁 Each Project is Explained in 7 Practical, Actionable Ways
 
-Every task above is not just mentioned — it’s **fully explained** through **7 different lenses** to ensure deep understanding and usability:
+Every project above is not just mentioned — it’s **fully explained** through **7 different lenses** to ensure deep understanding and usability:
 
 1️⃣ **Professional real-world scenario for practical context**  
 ➡ See how each task solves real business problems.
