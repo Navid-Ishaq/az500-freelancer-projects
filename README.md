@@ -128,7 +128,8 @@ Any resemblance to real-world organizations, people, or results is **purely coin
 
 ---
 
-## 🌟 Jamalu’s Motto — For Every Quiet Fighter
+## 💫 For Every Quiet Fighter — A Motto that Speaks
+
 
 > **"Main khud kuch nahi..."**  
 > **"...par AI ne khud se seekhna sikha diya hai."**  
