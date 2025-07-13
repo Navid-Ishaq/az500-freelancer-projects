@@ -923,7 +923,7 @@ flowchart TD
 
 ## 🟡 **Victory Unlocked!**
 
-Pop the (virtual) confetti! 🎊
+Pop the (virtual) confetti! 🎊  
 You’ve officially completed all **7 points** of a real-world, client-grade Azure security project — and that’s no small feat.
 
 From the first suspicious sign-in alert to crafting airtight **Conditional Access policies** in **Microsoft Entra ID**, you’ve tackled it all like a **cloud security champion**.
@@ -936,15 +936,10 @@ Let’s take a moment to celebrate what you just built — and why it *really* m
 
 Together with our fictional-but-fantastic team — **Ayesha**, **Omar**, **Rohan**, and **Sofia** — we created:
 
-
-✅ Smart, adaptive **Conditional Access policies**
-
-✅ Context-aware controls using **Named Locations** and **Sign-in Risk Evaluations**
-
-✅ Seamless, secure access powered by **MFA** and **Microsoft Entra ID**
-
+✅ Smart, adaptive **Conditional Access policies**  
+✅ Context-aware controls using **Named Locations** and **Sign-in Risk Evaluations**  
+✅ Seamless, secure access powered by **MFA** and **Microsoft Entra ID**  
 ✅ An end-to-end flow that reflects **Zero Trust principles** and real-world business needs
-
 
 You didn’t just *set up Azure features* — you **solved a real security problem**. And you made it friendly, scalable, and user-first. 🙌
 
@@ -954,15 +949,10 @@ You didn’t just *set up Azure features* — you **solved a real security probl
 
 Here’s what our team (and probably you!) learned along the way:
 
-
-🧠 **Security should adapt to people, not the other way around**
-
-💬 **User communication is just as important as technical setup**
-
-🧱 **Testing in the real world beats theory every time**
-
-📦 **Naming conventions, audit logs, and policy templates = long-term sanity**
-
+🧠 **Security should adapt to people, not the other way around**  
+💬 **User communication is just as important as technical setup**  
+🧱 **Testing in the real world beats theory every time**  
+📦 **Naming conventions, audit logs, and policy templates = long-term sanity**  
 🚀 **Cloud security isn’t a one-time task — it’s an evolving mindset**
 
 ---
@@ -1007,11 +997,11 @@ You just led (or learned from) a project that’s:
 The coolest part? You can now take this knowledge and apply it to:
 
 * A client-facing engagement
-* 
+  
 * Your company’s next security sprint
-* 
+  
 * A personal portfolio project
-* 
+  
 * Even mentoring a junior teammate 🔁
 
 Whether you're a freelancer, IT admin, student, or consultant — this journey showed that **real cloud security is doable, meaningful, and even kind of fun**.
