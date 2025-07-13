@@ -907,7 +907,6 @@ _"Secure like a pro, log in like a boss."_ 🛡️
 
 Here's how the access decision worked behind the scenes:
 
-```mermaid
 flowchart TD
   User --> SignIn[Azure Sign-In]
   SignIn --> RiskCheck[Evaluate Risk Level]
@@ -917,9 +916,6 @@ flowchart TD
 
 ---
 
-
-
----
 ---
 # 🎉 Mission Complete – 7 Points Secured, One Mighty Project Delivered!
 
